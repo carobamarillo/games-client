@@ -1,0 +1,12 @@
+.games {
+  margin: 20px;
+  max-width: 750px;
+}
+
+.games .ant-divider-horizontal {
+  margin: 12px 0;
+}
+
+.games .ant-skeleton-content .ant-skeleton-title + .ant-skeleton-paragraph {
+  margin-top: 18px;
+}
